@@ -168,7 +168,7 @@ input:active {
   border-bottom-left-radius: 0px;
 }
 
-.radio-input-div {
+.type-container .radio-input-div {
   display: flex;
   align-items: center;
   width: auto;
@@ -177,6 +177,7 @@ input:active {
   border-radius: 5px;
   padding-left: 15px;
   gap: 10px;
+  margin-bottom: 15px;
 }
 
 .radio-input-div-selected {
